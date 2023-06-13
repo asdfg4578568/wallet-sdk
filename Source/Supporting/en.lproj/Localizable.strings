@@ -1,0 +1,187 @@
+// Splash
+"splash_to_open_new_wallet_title" = "Multi Chain Wallet for Easy Use";
+"splash_to_your_wallet_Second_title" = "Your Wallet 100% Protected";
+"splash_wallet" = "Wallet";
+"spalsh_create_identity_title" = "Create Identity";
+"spalsh_create_identity_sub_title" = "To open new multi-chain wallets";
+"spalsh_recover_identity_title" = "Recover Identity";
+"spalsh_recover_identity_sub_title" = "To access existing wallets";
+"spalsh_popup_you_have_already_created_wallet_account" = "You have already created Wallet Account before. Are you sure to create another one?";
+
+
+// Backup
+"backup_start_to_backup" = "Noticed, start to backup";
+"backup_what_is_seed_phrase_title" = "What is Seed Phrase";
+"backup_what_is_seed_phrase_subtitle" = "A 12 words Seed Phrase will be generated when creating new wallet. The Seed Phrase is the only way to manage your assets. Your assets can not be recovered once lost the Seed Phrases.";
+"backup_the_seed_phrase_title" = "Backup the Seed Phrase";
+"backup_the_seed_phrase_subtitle" = "Backup your Seed Phrase properly You can recover your asset once lost or damage your phone.";
+"backup_keep_the_mnemonics_title" = "Keep the Mnemonics in Secret";
+"backup_keep_the_mnemonics_subtitle" = "Please do not store or transfer your Seed Phrase online. Do not keep in your photo album, email, disk, social app. Do not leak to anyone else.";
+
+"backup_show_title" = "Show";
+"backup_phrase_title" = "Phrase";
+"backup_private_key_title" = "Private Key";
+"backup_please_write_title" = "Please write the Mnemonic down in order to ensure the backup is correct";
+"backup_keep_your_mnemonic_title" = "Keep your mnemonic in a safe place, isolated from any network";
+"backup_dont_share_store_mnemonic_title" = "Don’t share and store mnemonic with a network, such as email, photo, social apps, and so on";
+"backup_not_title" = "Not";
+"backup_confirmed_backup_title" = "Confirmed backup";
+"backup_mnemonic_phrase_title" = "Backup Mnemonic Phrase";
+"backup_popup_you_can_check_seed_phrase_title" = "You can check the seed phrase in the upper right corner of the receiving page of any currency";
+"backup_popup_got_it_title" = "Got It";
+"backup_popup_please_donot_take_screenshots" = "Please do not take screenshots to share and store, it may be collected by third-party malware and cause loss of assets";
+
+//Pin
+"pin_set_pin_code" = "Set PIN code";
+"pin_enter_password_again" = "Enter the password again";
+"pin_code_are_not_the_same_set" = "PIN Code are not the same, set the same please";
+"pin_password_are_used_for_confirm_transactions" = "Passwords are used for confirm transactions, etc";
+"pin_code_is_wrong_pls_try_again" = "PIN Code is wrong，please try again";
+"pin_forgot_your_password" = "Forgot your Password?";
+"pin_enter_your_pin_code" = "Enter Your PIN Code";
+"pin_you_reset_pin_code_by_uninstalling" = "You can reset the PIN Code by uninstalling the APP and reinstalling the APP to import the same Seed Phrase to set the new PIN Code.";
+
+// Phrases
+"phrases_please_input_your_seed" = "Please input your seed phrase";
+"phrases_enter_your_phrase" = "Enter Your Phrase";
+"phrases_please_select_mnemonic_phrase" = "Please select Mnemonic Phrase in correct order";
+"phrases_order_wrong_try_again" = "The order is wrong, please try again";
+
+// Currency
+"currency_popup_going_to_third_party_title" = "You are going to the Third Party Provider";
+"currency_screen_buy" = "Buy";
+"currency_pressent_assets" = "Pressent Assets";
+"currency_receive_title" = "Receive";
+"currency_assets_title" = "Assets";
+// Currency Details
+"currency_details_transfer" = "Transfer";
+"currency_details_receive" = "Receive";
+"currency_details_title" = "Currency Details";
+"currency_details_pager_all" = "All";
+"currency_details_pager_send" = "Send";
+"currency_details_pager_receive" = "Receive";
+"currency_details_bandwidth_points" = "Bandwidth Points:";
+"currency_details_energy" = "Energy:";
+"currency_details_transactions_history" = "Transactions history";
+
+// Receive
+"receive_copy_address" = "Copy address";
+"receive_display_private_key" = "Display Private Key";
+"receive_display_private_key_title" = "Display Private Key";
+"receive_private_key" = "Private Key:";
+"receive_hex_title" = "Hex";
+"receive_show_seed_phrase" = "Show Seed Phrase";
+
+// Transfer
+"transfer_payment_details_title" = "Payment Details";
+"transfer_if_bandwidth_resources_small_title" = "If the bandwidth resources, energy resources are comsumed. May consume a small amount of your TRX to complete the transaction";
+"transfer_set_gas_fee" = "Set Gas Fee";
+"transfer_set_priority" = "Set priority";
+
+"transfer_please_input_address" = "Please input address";
+"transfer_please_input_transfer_amount" = "Please input transfer amount";
+"transfer_balance_not_enough" = "The balance is not enough";
+"transfer_please_check_estimated_fee" = "Please check the estimated fee";
+"transfer_less_than_transaction_fee" = "The amount of %@ couldn’t less than transaction fee, around %@";
+
+"transfer_payment_info_title" = "Payment Info";
+"transfer_payment_to_title" = "To";
+"transfer_payment_from_title" = "From";
+"transfer_payment_miner_fee_title" = "Miner's fee";
+
+"transfer_max_fee" = "MaxFee";
+"transfer_fast_title" = "Fast";
+"transfer_medium_title" = "Medium";
+"transfer_slow_title" = "Slow";
+
+"transfer_click_to_see_more" = "Click to see more";
+"transfer_click_to_see_less" = "Click to see less";
+"transfer_save_my_address_book" = "Save to my address book";
+
+// Address
+"address_less_than_words_title" = "Less than 20 words";
+"address_enter_the_address" = "Enter the address";
+"address_add_coin_x_address_title" = "Add %@ Address";
+"address_are_you_sure_delete_address" = "Are you sure you want to delete this address?";
+"address_book_of_coin_x_title" = "Address Book of %@";
+
+// Recent records
+"recent_records_title" = "Recent records";
+"recent_records_sent" = "Sent";
+"recent_records_sent_failed" = "Sent failed";
+"recent_records_success_received" = "Received";
+"recent_records_failed_received" = "Received failed";
+"recent_records_transfer_details_title" = "Transfer Details";
+"recent_records_deposit_details_title" = "Deposit Details";
+
+//popup
+"yes_title" = "Yes";
+"cancel_title" = "Cancel";
+"popup_miner_fee_estimated" = "The miner's fee is an estimated value and may be slightly different from the actual one. Excessive low miner's fee may lead to a long time on confirmation. Please set a reasonable miner's fee";
+
+// toast
+"toast_copied" = "Copied";
+"something_wrong_try_again" = "Something went wrong, Please try again";
+
+//Other
+"no_data_found" = "No Data Found";
+"other_close_title" = "Close";
+"other_copy_title" = "Copy";
+"other_next_title" = "Next";
+"other_got_it" = "Got It";
+"other_save_title" = "Save";
+"other_name_title" = "Name";
+"other_address_title" = "Address";
+"other_delete_title" = "Delete";
+"other_done_title" = "Done";
+"other_to_title" = "To";
+"other_from_title" = "From";
+"other_add_title" = "Add";
+"other_confirm_title" = "Confirm";
+"other_all_title" = "All";
+"other_try_again_title" = "Try again";
+
+
+"choose_currency_from_here" = "Choose Currency From Here";
+
+"backup_privateKey_security_warning" = "Do not take screenshots! The picture may be intercepted by hackers, it is recommended to save it in a safe way. Please ensure the safety of the surrounding environment, and beware of the Private key information being obtained by others.";
+
+"backup_sead_phrase_security_warning" = "Do not take screenshots! The picture may be intercepted by hackers, it is recommended to save it in a safe way. Please ensure the safety of the surrounding environment, and beware of the Seed Phrase information being obtained by others.";
+
+"transactions_status_success" = "Success";
+"transactions_status_pending" = "Pending";
+"transactions_status_fail" = "Fail";
+
+"transaction_details_confirm_time" = "Confirm time";
+"transaction_details_network_fee" = "Network fee";
+"transaction_details_gas_price" = "Gas Price:";
+"transaction_details_gas_limit" = "Gas Limit:";
+"transaction_details_gas_used" = "Gas Used:";
+"transaction_details_confirmations" = "Confirmations:";
+"transaction_details_myself_address_title" = "Myself address";
+"transaction_details_name_title" = "Name: %@";
+"transaction_details_save_to_my_address" = "Save to my address book";
+
+"receiving_address_title" = "Receiving Address";
+"transfer_amount_bl_title" = "Bl:";
+"receiving_enter_address_title" = "Enter the %@ address";
+"transfer_amount_title" = "Transfer amount";
+"receiving_address_with_coin" = "address";
+
+"miner_estimated_fee_title" = "Estimated fee:";
+"miner_estimated_refresh_in" = "Refresh in %i";
+
+"history_list_out_title" = "Out";
+"history_list_in_title" = "In";
+
+"3014" = "The sending address is incorrect";
+"3015" = "The receiver address is incorrect";
+"3016" = "Address already exists";
+"3005" = "The balance of ETH couldn’t be less than transaction fee, around {%@} ETH";
+"" = "In order to prevent transaction execution failure, we recommend that your balance is greater than {%@} TRX";
+"" = "The balance of BTC couldn’t less than transaction fee, around {%@} BTC";
+"3012" = "Your Seed Phrase has been bound by another user,  you cannot transfer";
+"3017" = "Network error, please try later";
+"3018" = "The address is incorrect, please input again";
+"3100" = "Create transaction failed";
+"3013" = "The transaction is failed";

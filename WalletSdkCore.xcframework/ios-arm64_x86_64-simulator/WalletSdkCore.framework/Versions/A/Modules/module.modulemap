@@ -1,0 +1,9 @@
+framework module "WalletSdkCore" {
+	header "ref.h"
+    header "Cold_wallet.objc.h"
+    header "Hot_wallet.objc.h"
+    header "Universe.objc.h"
+    header "WalletSdkCore.h"
+
+    export *
+}

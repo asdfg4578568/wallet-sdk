@@ -1,0 +1,16 @@
+PODS:
+  - CryptoWalletSDK (0.1.0)
+
+DEPENDENCIES:
+  - CryptoWalletSDK (from `../`)
+
+EXTERNAL SOURCES:
+  CryptoWalletSDK:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CryptoWalletSDK: 23f7ffd331d4a72b87aa8ad5188aeb33b0854604
+
+PODFILE CHECKSUM: 9a1d3feb8bc4a4463beb001d1b3d394ae601f2c6
+
+COCOAPODS: 1.11.3

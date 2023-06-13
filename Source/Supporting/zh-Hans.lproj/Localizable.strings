@@ -1,0 +1,184 @@
+// Splash
+"splash_to_open_new_wallet_title" = "易于使用的多链钱包";
+"splash_to_your_wallet_Second_title" = "您的钱包受到100%的保护";
+"splash_wallet" = "钱包";
+"spalsh_create_identity_title" = "创建钱包";
+"spalsh_create_identity_sub_title" = "打开新的多链钱包";
+"spalsh_recover_identity_title" = "恢复钱包";
+"spalsh_recover_identity_sub_title" = "访问已有钱包";
+"spalsh_popup_you_have_already_created_wallet_account" = "您之前已经创建了钱包帐户 \n您确定再创建一个吗？";
+
+// Backup
+"backup_start_to_backup" = "了解，开始备份";
+"backup_what_is_seed_phrase_title" = "什么是助记词";
+"backup_what_is_seed_phrase_subtitle" = "创建新钱包时会生成一组由12个单词组成的助记词。助记词是管理您钱包资产的唯一凭证。助记词一旦丢失，您将无法找回您的资产。";
+"backup_the_seed_phrase_title" = "备份助记词";
+"backup_the_seed_phrase_subtitle" = "请妥善备份好您的助记词，一旦您的手机丢失或损坏，您可以找回您的资产。";
+"backup_keep_the_mnemonics_title" = "请保密好助记词";
+"backup_keep_the_mnemonics_subtitle" = "请不要在线上保存或传输您的助记词。不要保存在您的相册、电子邮件、磁盘、社交应用程序中。不要泄露给其他任何人。";
+
+"backup_show_title" = "显示";
+"backup_phrase_title" = "助记词";
+"backup_private_key_title" = "私钥";
+"backup_please_write_title" = "请记下助记词以确保能正确备份";
+"backup_keep_your_mnemonic_title" = "请将您的助记词存储在一个安全且与任何网络隔离的地方";
+"backup_dont_share_store_mnemonic_title" = "请不要通过网络比如：邮件、图片、社交软件等方式储存和分享您的助记词";
+"backup_not_title" = "暂时不用";
+"backup_confirmed_backup_title" = "已备份";
+"backup_mnemonic_phrase_title" = "备份助记词";
+"backup_popup_you_can_check_seed_phrase_title" = "您可以在任意币种收款页面右上角查看助记词";
+"backup_popup_got_it_title" = "知道了";
+"backup_popup_please_donot_take_screenshots" = "请不要截图分享和存储，这可能会造成资产损失";
+
+//Pin
+"pin_set_pin_code" = "设置密码";
+"pin_enter_password_again" = "请再次输入密码";
+"pin_code_are_not_the_same_set" = "密码不一致，请重新设置";
+"pin_password_are_used_for_confirm_transactions" = "密码用于确认转账、查看助记词等";
+"pin_code_is_wrong_pls_try_again" = "密码错误，请重试";
+"pin_forgot_your_password" = "忘记密码？";
+"pin_enter_your_pin_code" = "请输入密码";
+"pin_you_reset_pin_code_by_uninstalling" = "您可以通过卸载该应用并重新安装后导入相同的助记词来设置新的PIN码。";
+// Currency
+"currency_popup_going_to_third_party_title" = "您将前往第三方交易平台";
+"currency_screen_buy" = "购买";
+"currency_pressent_assets" = "Pressent Assets";
+"currency_receive_title" = "收款";
+"currency_assets_title" = "资产";
+// Currency Details
+"currency_details_transfer" = "转出";
+"currency_details_receive" = "收款";
+"currency_details_title" = "货币详情";
+"currency_details_pager_all" = "全部";
+"currency_details_pager_send" = "转出";
+"currency_details_pager_receive" = "收款";
+"currency_details_bandwidth_points" = "带宽:";
+"currency_details_energy" = "能量:";
+"currency_details_transactions_history" = "交易记录";
+
+// Phrases
+"phrases_please_input_your_seed" = "请输入您的助记词";
+"phrases_enter_your_phrase" = "请输入您的助记词";
+"phrases_please_select_mnemonic_phrase" = "请按正确顺序选择助记词";
+"phrases_order_wrong_try_again" = "顺序错误，请重试";
+
+// Receive
+"receive_copy_address" = "复制地址";
+"receive_display_private_key" = "显示私钥";
+"receive_display_private_key_title" = "显示私钥";
+"receive_private_key" = "私钥:";
+"receive_hex_title" = "Hex";
+"receive_show_seed_phrase" = "显示助记词";
+
+// Transfer
+"transfer_payment_details_title" = "支付详情";
+"transfer_if_bandwidth_resources_small_title" = "如果带宽资源，能源资源被消耗。可能会消耗少量您的 TRX 来完成交易";
+"transfer_set_gas_fee" = "设置矿工费";
+"transfer_set_priority" = "设置费率";
+
+"transfer_please_input_address" = "请输入地址";
+"transfer_please_input_transfer_amount" = "请输入转出金额";
+"transfer_balance_not_enough" = "您的余额不足";
+"transfer_please_check_estimated_fee" = "Please check the estimated fee";
+"transfer_less_than_transaction_fee" = "%@数量不能低于手续费，大约%@";
+
+"transfer_payment_info_title" = "支付信息";
+"transfer_payment_to_title" = "收款地址";
+"transfer_payment_from_title" = "付款地址";
+"transfer_payment_miner_fee_title" = "矿工费";
+
+"transfer_max_fee" = "最高费用";
+"transfer_fast_title" = "快速";
+"transfer_medium_title" = "适中";
+"transfer_slow_title" = "缓慢";
+
+"transfer_click_to_see_more" = "点击查看更多";
+"transfer_click_to_see_less" = "点击收起更多";
+"transfer_save_my_address_book" = "保存至我的地址簿";
+
+// Address
+"address_less_than_words_title" = "不超过20个字符";
+"address_enter_the_address" = "请输入地址";
+"address_add_coin_x_address_title" = "添加%@地址";
+"address_are_you_sure_delete_address" = "您确定要删除该地址吗?";
+"address_book_of_coin_x_title" = "%@地址簿";
+
+// Recent records
+"recent_records_title" = "最近记录";
+"recent_records_sent" = "发送";
+"recent_records_sent_failed" = "发送失败";
+"recent_records_success_received" = "收到";
+"recent_records_failed_received" = "接收失败";
+"recent_records_transfer_details_title" = "转账明细";
+"recent_records_deposit_details_title" = "充值详情";
+
+//popup
+"yes_title" = "是的";
+"cancel_title" = "取消";
+"popup_miner_fee_estimated" = "矿工费是一个估计值，可能与实际值略有不同。过低的矿费可能导致确认时间过长。请设定一个合理的矿工费";
+
+// toast
+"toast_copied" = "已复制";
+"something_wrong_try_again" = "有些不对劲，请再试一遍";
+
+//Other
+"no_data_found" = "暂无数据";
+"other_close_title" = "关闭";
+"other_copy_title" = "复制";
+"other_next_title" = "下一步";
+"other_got_it" = "知道了";
+"other_save_title" = "保存";
+"other_name_title" = "名字";
+"other_address_title" = "地址";
+"other_delete_title" = "删除";
+"other_done_title" = "完成";
+"other_to_title" = "收款地址";
+"other_from_title" = "付款地址";
+"other_confirm_title" = "确认";
+"other_add_title" = "添加";
+"other_all_title" = "全部";
+"other_try_again_title" = "再试一次";
+
+"choose_currency_from_here" = "可从这里选择货币";
+
+"backup_privateKey_security_warning" = "请勿截图！图片可能被黑客截取，建议以安全的方式保存。\n请注意周围环境的安全，谨防私钥信息被他人获取。";
+
+"backup_sead_phrase_security_warning" = "请不要截图！图片可能被黑客截取，建议以安全的方式保存。\n请注意周围环境安全，谨防助记词信息被他人获取。";
+
+"transactions_status_success" = "成功";
+"transactions_status_pending" = "等待中";
+"transactions_status_fail" = "失败";
+
+"transaction_details_confirm_time" = "确认时间";
+"transaction_details_network_fee" = "矿工费";
+"transaction_details_gas_price" = "Gas Price:";
+"transaction_details_gas_limit" = "Gas Limit:";
+"transaction_details_gas_used" = "Gas Used:";
+"transaction_details_confirmations" = "确认数:";
+"transaction_details_myself_address_title" = "我的地址";
+"transaction_details_name_title" = "名字: %@";
+"transaction_details_save_to_my_address" = "保存至我的地址簿";
+
+"receiving_address_title" = "接收地址";
+"transfer_amount_bl_title" = "余额:";
+"receiving_enter_address_title" = "输入%@地址";
+"transfer_amount_title" = "转出数量";
+"receiving_address_with_coin" = "地址";
+
+"miner_estimated_fee_title" = "预估费:";
+"miner_estimated_refresh_in" = "%i 秒后刷新";
+
+"history_list_out_title" = "转出";
+"history_list_in_title" = "收款";
+
+"3014" = "该转出地址不正确";
+"3015" = "该收款地址不正确";
+"3016" = "该地址已存在";
+"3005" = "ETH余额不能低于手续费，大约需要 {%@} ETH";
+"" = "为了防止转账失败,我们建议您的TRX余额大于 {%@} TRX";
+"" = "BTC余额不能低于手续费，大约需要 {%@} BTC";
+"3012" = "您的助记词已被其他用户绑定，不可进行转账操作";
+"3017" = "网络错误，请稍后重试";
+"3018" = "地址不正确，请重新输入";
+"3100" = "发起交易失败";
+"3013" = "交易失败";

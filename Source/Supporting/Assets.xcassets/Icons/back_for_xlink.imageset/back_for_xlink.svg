@@ -1,0 +1,16 @@
+<svg id="Back" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="34" height="34" viewBox="0 0 34 34">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ecf2f8"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+  </defs>
+  <g id="DM_20221115140416_001" stroke="#fff" stroke-width="2" fill="url(#linear-gradient)">
+    <rect width="34" height="34" rx="17" stroke="none"/>
+    <rect x="1" y="1" width="32" height="32" rx="16" fill="none"/>
+  </g>
+  <g id="组_1292" data-name="组 1292" transform="translate(9.067 9.067)">
+    <rect id="矩形_2000" data-name="矩形 2000" width="15.867" height="15.867" transform="translate(0 0)" fill="none"/>
+    <path id="路径_3160" data-name="路径 3160" d="M65.533,80.873h10.1c3.749,0,5.714-2.52,5.714-5.078s-1.863-5.155-5.581-5.155H72.045l2.791-2.791-1.861-1.86-7.442,7.442H75.766a2.8,2.8,0,0,1,2.791,2.326c0,1.443-.7,2.326-2.791,2.326H65.533Z" transform="translate(-65.506 -65.989)" fill="#333"/>
+  </g>
+</svg>

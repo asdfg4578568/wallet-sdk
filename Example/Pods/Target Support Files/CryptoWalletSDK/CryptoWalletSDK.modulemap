@@ -1,0 +1,6 @@
+framework module CryptoWalletSDK {
+  umbrella header "CryptoWalletSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}
