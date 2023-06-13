@@ -290,7 +290,7 @@ public class TransferViewController: UIViewController {
                                 self.navigationController?.pushViewController(RecentRecordsDetailsViewController(with: RecentRecordsDetailsViewModel(with: self.viewModel.currencyModel, and: message)), animated: true)
                                 
                                 // This is related to xlink, to create transaction type message
-                                let info = ["transactionHash": message, "amount": self.viewModel.balanceToSend, "coinType": self.viewModel.currencyModel.coinType]
+                                let info = ["transactionHash": message, "amount": self.viewModel.balanceToSend, "coinType": self.viewModel.currencyModel.coinType] as [String : Any]
                                 NotificationCenter.default.post(name: Notification.Name("createNewTransaction"), object: nil, userInfo: info)
                                 
                                 DispatchQueue.main.asyncAfter(deadline: .now() + 1.0, execute: {
