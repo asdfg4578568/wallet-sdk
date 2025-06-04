@@ -29,6 +29,6 @@ Pod::Spec.new do |s|
     s.dependency 'SnapKit'
     s.dependency 'XLPagerTabStrip'
     s.dependency 'SwipeCellKit'
-    s.dependency 'ToastViewSwift'
+    s.dependency 'ToastViewSwift', '5.0.1'
     s.dependency 'Localize-Swift'
 end
